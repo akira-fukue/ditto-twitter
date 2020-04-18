@@ -350,7 +350,7 @@ div.wrapper-content .timeline ul.tweets li {
   display: flex;
 }
 
-div.wrapper-content .timeline ul.tweets li > img {
+.timeline-avatar {
   width: 48px;
   height: 48px;
   border-radius: 50%;
